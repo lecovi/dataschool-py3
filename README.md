@@ -22,8 +22,10 @@ o en la nube con [Google Colab](https://colab.research.google.com) (o similar).
 * 🌎 [Asociación Civil Python Argentina](https://ac.python.org.ar)
 * 🌎 [Tutorial Python Español](https://docs.python.org.ar/tutorial/)
 * 🌎 [The Hitchhiker’s Guide](https://docs.python-guide.org/)
-*  [@lecovi](https://twitter.com/lecovi)
-*  [@lecovi](https//t.me/lecovi)
-*  [LinkedIn](https://www.linkedin.com/in/leandrocolombo/)
+
+Agregame:
+* 🌎 [Twitter: @lecovi](https://twitter.com/lecovi)
+* 🌎 [Telegram: @lecovi](https//t.me/lecovi)
+* 🌎 [LinkedIn](https://www.linkedin.com/in/leandrocolombo/)
 * 🌎 [Leo's Site](https://leo.bitson.group/)
 
