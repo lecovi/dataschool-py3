@@ -2,7 +2,7 @@
 
 Archivos de acompañamiento del [Día 3 del #DataSchool](https://bitson.group/slides/dataschool-py3.html).
 
-* Fecha: 28 de abril de 2020
+* Fecha: 30 de abril de 2020
 * Horario: 10:00 a 12:00 (UTC-3)
 
 ## Instrucciones
