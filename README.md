@@ -14,3 +14,16 @@ o en la nube con [Google Colab](https://colab.research.google.com) (o similar).
 
 * [Primer día](https://github.com/lecovi/dataschool-py1)
 * [Día Anterior](https://github.com/lecovi/dataschool-py2)
+
+### Links útiles
+
+* 🌎 [Python Software Foundation](https://www.python.org)
+* 🌎 [Python Argentina](http://www.python.org.ar)
+* 🌎 [Asociación Civil Python Argentina](https://ac.python.org.ar)
+* 🌎 [Tutorial Python Español](https://docs.python.org.ar/tutorial/)
+* 🌎 [The Hitchhiker’s Guide](https://docs.python-guide.org/)
+*  [@lecovi](https://twitter.com/lecovi)
+*  [@lecovi](https//t.me/lecovi)
+*  [LinkedIn](https://www.linkedin.com/in/leandrocolombo/)
+* 🌎 [Leo's Site](https://leo.bitson.group/)
+
